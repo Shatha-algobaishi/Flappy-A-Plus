@@ -2,6 +2,12 @@
 
 A **Flappy Bird-inspired 2D arcade game** developed with **Unity and C#**. Guide a flying A+ character through pairs of pipes, earn points by passing obstacles, and try to beat your previous score.
 
+## Gameplay Demo
+
+Watch a short demo of Flappy A+ in action:
+
+https://github.com/user-attachments/assets/28e66b98-7a64-4a12-a2d6-0255e5c51cda
+
 ## Gameplay
 
 - Keep the **A+ character** flying and navigate through gaps between pipes.
